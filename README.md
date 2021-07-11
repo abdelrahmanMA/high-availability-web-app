@@ -1,7 +1,9 @@
 # High Availability Web App Using CloudFormation
 
 This project is the 2nd project is part of Udacity Cloud Devops nanodegree
+
 Working URL: http://hawau-webap-1hdogtwn74coq-1624604623.us-east-1.elb.amazonaws.com/
+
 This link will be taken down after the review
 ***
 ## Scenario
